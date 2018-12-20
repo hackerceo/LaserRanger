@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LaserRangerODC	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+
+laserPointerOn	KEYWORD2
+laserPointerOff	KEYWORD2
+
+findDistanceFast		KEYWORD2
+findDistanceExact		KEYWORD2
+findDistance			KEYWORD2
+
+doProcess	KEYWORD2
+newDataReady	KEYWORD2
+
+getMeasureDistance	KEYWORD2
+getMeasureVariance	KEYWORD2
+getMeasureError	KEYWORD2
+
+setDistanceMode	KEYWORD2
+getDistanceMode	KEYWORD2
+
+setIntermeasurementPeriod	KEYWORD2
+getIntermeasurementPeriod	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

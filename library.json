@@ -1,0 +1,14 @@
+{
+  "name": "LaserRanger by HackerCEO",
+  "keywords": "Laser, Rangefinder, LaserRanger",
+  "description": "A library that makes controlling Laser Rangefinder modules (ex. A) easy.  Supports most Arduino platforms.",
+  "homepage": "https://github.com/hackerceo/LaserRanger/wiki",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/hackerceo/LaserRanger"
+  },
+  "version": "0.1.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
