@@ -1,5 +1,5 @@
 # LaserRanger Arduino Library tested/works with the following modules:
-- https://www.aliexpress.com/store/product/New-Arrive-100m-328ft-Laser-Distance-Measuring-Sensor-Range-Finder-Module-Single-Serial-TTL-signal-to/620655_32794464372.html
+- [https://www.aliexpress.com/store/product/New-Arrive-100m-328ft-Laser-Distance-Measuring-Sensor-Range-Finder-Module-Single-Serial-TTL-signal-to/620655_32794464372.html](https://www.aliexpress.us/w/wholesale-laser-rangefinder-module-.html)
 
 
 
